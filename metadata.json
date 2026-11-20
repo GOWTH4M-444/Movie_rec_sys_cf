@@ -1,0 +1,6 @@
+{
+  "name": "Movie Recommendation System Using Collaborative Filtering",
+  "description": "An interactive movie recommendation platform powered by User-Based Collaborative Filtering, Item-Based Collaborative Filtering, and Matrix Factorization (SVD).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
